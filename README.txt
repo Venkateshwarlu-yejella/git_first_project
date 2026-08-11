@@ -1,14 +1,10 @@
-﻿hello!
-git!
-this is mt4sonaru
-s eandfse alochinch 
-use UVM to work
- get a job
-lets see what happnsdfsesd
-sfesd
-12
- 12 
-123 
-344t4
-what else can you do.
-show me
+﻿# Git First Project
+
+This repository was created to practice Git and GitHub workflows.
+
+## What this project contains
+- A simple README for learning version control
+- Basic Git commit and push practice
+- A starting point for future updates
+
+Updated on 2026-08-10.
